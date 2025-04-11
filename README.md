@@ -1,15 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hola%20a%20todos&fontSize=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=Ing.%20Gastón%20Segura&fontSize=90"/>
 </p>
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <a href="https://www.linkedin.com/in/gastonsegura">
+    <img height="50" src="https://github.com/user-attachments/assets/7699474f-2050-47b4-aaa2-f1b29962ae78"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gastonsegura">
+    <img height="50" src="https://github.com/user-attachments/assets/74124721-7e21-4d35-b63b-53cbb4108a52"/>
+  </a>  
+  <a href="https://www.linkedin.com/in/gastonsegura">
+    <img height="50" src="https://github.com/user-attachments/assets/57239535-bda3-4756-a5fa-2b253cfe169b"/>
+  </a>    
 </p>
-
-<a href="https://www.linkedin.com/in/gastonsegura">
-  <img height="50" src="https://github.com/user-attachments/assets/7699474f-2050-47b4-aaa2-f1b29962ae78"/>
-</a>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJqMDRyb2c1NnlmMG45ZndoM2JrcnU4a2hwZjhsYnRpa2EwdnVucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
