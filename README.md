@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=Ing.%20Gaston%20Segura&fontSize=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Ing.%20Gaston%20Segura&fontSize=90"/>
+</p>
+
+<p align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJqMDRyb2c1NnlmMG45ZndoM2JrcnU4a2hwZjhsYnRpa2EwdnVucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>
 
 <p align="center">
@@ -12,10 +16,6 @@
   <a href="https://www.linkedin.com/in/gastonsegura">
     <img height="50" src="https://github.com/user-attachments/assets/57239535-bda3-4756-a5fa-2b253cfe169b"/>
   </a>    
-</p>
-
-<p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJqMDRyb2c1NnlmMG45ZndoM2JrcnU4a2hwZjhsYnRpa2EwdnVucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>
 
 ***
@@ -59,5 +59,5 @@ hobbies: ["Gaming", "Movies", "football", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-
+<h2> 📊 &nbsp;My Github Stats</h2>
 ![Snake animation](https://github.com/gastonsegura2908/gastonsegura2908/blob/output/github-contribution-grid-snake.svg)
