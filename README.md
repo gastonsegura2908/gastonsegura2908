@@ -32,7 +32,6 @@ education:
     "Technical Degree in Programming",
   ]
 
-
 fields_of_interests:
   [
     "Embedded Systems",
@@ -65,6 +64,7 @@ technical_background:
     "Debugging with GDB, QEMU, strace, and dmesg",
     "Interfacing hardware with Raspberry Pi (BCM2837)",
   ]
+
 hobbies: ["Gaming", "Movies", "football", "Comedy"]
 ```
 
