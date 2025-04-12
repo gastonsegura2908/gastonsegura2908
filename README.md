@@ -27,27 +27,32 @@ name: Gaston Marcelo Segura
 located_in: Cordoba, Argentina
 education:
   [
-    "Ingeniero en Computación",
-    "Bachiller Universitario en Ciencias Aplicadas",
-    "Técnico en Programacion",
+    "Computer Engineering (Ingeniero en Computación)",
+    "Bachelor in Applied Sciences",
+    "Technical Degree in Programming",
   ]
 
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Embedded Systems",
+    "Firmware Development",
+    "Hardware Design",
+    "Digital Electronics",
+    "FPGA and VHDL/Verilog",
+    "IoT Systems",
+    "Real-Time Operating Systems (RTOS)",
   ]
+
 technical_background:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "C and C++ for embedded systems",
+    "ARM Cortex-M microcontrollers (LPC1769, STM32)",
+    "Firmware development using FreeRTOS",
+    "Sensor integration and ADC communication",
+    "LoRa-based communication protocols",
+    "Concurrent programming with Java (monitors and synchronization)",
+    "MATLAB for signal processing and data visualization",
+    "VHDL/Verilog for FPGA (Basys 3, Nexys 4DDR)",
   ]
 hobbies: ["Gaming", "Movies", "football", "Comedy"]
 ```
