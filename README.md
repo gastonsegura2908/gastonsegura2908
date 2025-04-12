@@ -32,27 +32,38 @@ education:
     "Technical Degree in Programming",
   ]
 
+
 fields_of_interests:
   [
     "Embedded Systems",
     "Firmware Development",
     "Hardware Design",
+    "Linux Device Drivers",
     "Digital Electronics",
     "FPGA and VHDL/Verilog",
     "IoT Systems",
     "Real-Time Operating Systems (RTOS)",
+    "Low-level systems programming",
+    "Kernel development and debugging",
   ]
 
 technical_background:
   [
     "C and C++ for embedded systems",
+    "Assembly (x86) for low-level performance and debugging",
     "ARM Cortex-M microcontrollers (LPC1769, STM32)",
-    "Firmware development using FreeRTOS",
-    "Sensor integration and ADC communication",
+    "Linux Kernel Module development (Character Device Drivers)",
+    "Secure Boot and kernel module signing (X.509, OpenSSL)",
+    "Firmware development using FreeRTOS and bare-metal",
+    "Sensor integration and ADC communication via GPIO/I2C/UART/SPI",
     "LoRa-based communication protocols",
+    "Python for GUI, serial comms and data visualization (matplotlib, ctypes)",
     "Concurrent programming with Java (monitors and synchronization)",
     "MATLAB for signal processing and data visualization",
+    "Git, GitHub, and CI/CD automation using GitHub Actions",
     "VHDL/Verilog for FPGA (Basys 3, Nexys 4DDR)",
+    "Debugging with GDB, QEMU, strace, and dmesg",
+    "Interfacing hardware with Raspberry Pi (BCM2837)",
   ]
 hobbies: ["Gaming", "Movies", "football", "Comedy"]
 ```
