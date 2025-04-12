@@ -27,7 +27,7 @@ name: Gaston Marcelo Segura
 located_in: Cordoba, Argentina
 education:
   [
-    "Computer Engineering (Ingeniero en Computación)",
+    "Computer Engineering",
     "Bachelor in Applied Sciences",
     "Technical Degree in Programming",
   ]
