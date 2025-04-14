@@ -1,10 +1,12 @@
-name: Generate Snake Animation 🐍
+name: Generate Snake Animation
 
 on:
   schedule:
-    # Corre todos los días a las 23:45 UTC
-    - cron: "45 23 * * *"
-  workflow_dispatch:  # Permite ejecutarlo manualmente
+    - cron: "45 23 * * *" # todos los días a las 23:45 UTC
+  workflow_dispatch: # permite correrlo manualmente desde Actions
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -13,17 +15,18 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Generate snake game from GitHub contributions
         uses: Platane/snk@v3
         with:
           github_user_name: gastonsegura2908
           outputs: |
-            ./output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit and Push
+      - name: Push generated files
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "Generate contribution grid snake"
-          add: "./output/github-contribution-grid-snake.svg"
+          message: "Generate snake contribution grid"
+          add: "output/*.svg"
