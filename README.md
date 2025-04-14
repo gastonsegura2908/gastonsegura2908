@@ -146,7 +146,7 @@ hobbies: ["Gaming", "Movies", "Football", "Comedy"]
 </p> 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gastonsegura2908/gastonsegura2908/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/gastonsegura2908/gastonsegura2908/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
