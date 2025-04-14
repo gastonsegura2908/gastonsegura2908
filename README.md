@@ -61,17 +61,51 @@ technical_background:
     "VHDL/Verilog for FPGA (Basys 3, Nexys 4DDR)",
     "Debugging with GDB, QEMU, strace, and dmesg",
     "Interfacing hardware with Raspberry Pi (BCM2837)",
+    "Parallel computing with OpenMP for performance optimization",
+    "Build automation and project management with CMake",
+    "Containerization and deployment using Docker",
+    "Static code analysis with SonarQube",
+    "API development and backend services with Golang (Fiber framework)",
+    "Web security implementation using JWT and TLS protocols",
+    "Custom memory allocators and heap management in C",
+    "Process creation, IPC (pipes), and signal handling in Unix/Linux",
+    "Socket programming with TCP/IP in C++",
+    "Command-line interface (CLI) development and shell scripting",
+    "Unit testing with Unity framework",
+    "Documentation generation with Doxygen",
+    "Build automation with Makefiles",
   ]
+
 
 hobbies: ["Gaming", "Movies", "football", "Comedy"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <!-- Lenguajes de programación -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" alt="Assembly" width="45" height="45"/>
+
+  <!-- Sistemas embebidos y diseño digital -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" alt="Verilog" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="45" height="45"/>
+
+  <!-- Herramientas de desarrollo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" alt="GCC" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </p>
+
 
 <h2> 📊 &nbsp;My Github Stats</h2>
 ![Snake animation](https://github.com/gastonsegura2908/gastonsegura2908/blob/output/github-contribution-grid-snake.svg)
