@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Ing.%20Gaston%20Segura&fontSize=90"/>
 </p>
 
+
+<!-- animación typing 👇 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👨‍💻+Embedded+Systems+Engineer;💡+Hardware+and+Firmware+Developer;🔧+Low-Level+Systems+Specialist" alt="Typing SVG" />
+</p>
+
 <p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJqMDRyb2c1NnlmMG45ZndoM2JrcnU4a2hwZjhsYnRpa2EwdnVucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>
@@ -80,6 +86,12 @@ technical_background:
 hobbies: ["Gaming", "Movies", "Football", "Comedy"]
 ```
 
+<!-- Isometric coder GIF 👇 -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</p>
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <!-- Lenguajes de programación -->
@@ -90,8 +102,6 @@ hobbies: ["Gaming", "Movies", "Football", "Comedy"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Golang" width="45" height="45"/>
   <img src="https://github.com/user-attachments/assets/146d7496-e333-4cdf-88aa-b15f2150842b" alt="Assembly" width="45" height="45"/>
   
-
-
   <!-- Sistemas embebidos y diseño digital -->
   <img src="https://github.com/user-attachments/assets/881ca494-c5f2-4553-a7ec-2b3d550caee6" alt="Verilog" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"/>
@@ -121,18 +131,23 @@ hobbies: ["Gaming", "Movies", "Football", "Comedy"]
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" width="100" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="45" height="45"/>
   <img src="https://img.shields.io/badge/doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white" alt="Doxygen" width="100" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/openssl/openssl-ar21~bgwhite.svg" alt="OpenSSL" width="100" height="45"/>
-  
-  
+  <img src="https://www.vectorlogo.zone/logos/openssl/openssl-ar21~bgwhite.svg" alt="OpenSSL" width="100" height="45"/>  
 </p>
 
 
 <h2> 📊 &nbsp;My Github Stats</h2>
-<p align="center"> <a href="https://github.com/gastonsegura2908"> <img src="https://github-readme-stats.vercel.app/api?username=gastonsegura2908&show_icons=true&theme=radical" alt="Gaston Segura's GitHub stats" height="200"/> </a> <a href="https://github.com/gastonsegura2908"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonsegura2908&layout=compact&theme=radical" alt="Top Languages" height="200"/> </a> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gastonsegura2908&theme=radical" alt="GitHub Streak" height="200"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/gastonsegura2908/gastonsegura2908/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
+<p align="center"> 
+    <a href="https://github.com/gastonsegura2908"> <img src="https://github-readme-stats.vercel.app/api?username=gastonsegura2908&show_icons=true&theme=radical" alt="Gaston Segura's GitHub stats" height="200"/>      </a> 
+    <a href="https://github.com/gastonsegura2908"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonsegura2908&layout=compact&theme=radical" alt="Top Languages" height="200"/> 
+    </a> 
+</p> 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gastonsegura2908&theme=radical" alt="GitHub Streak" height="200"/> 
+</p> 
 
-
-
-![Snake animation](https://github.com/gastonsegura2908/gastonsegura2908/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gastonsegura2908/gastonsegura2908/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=footer"/>
