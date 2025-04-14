@@ -37,13 +37,11 @@ fields_of_interests:
     "Embedded Systems",
     "Firmware Development",
     "Hardware Design",
-    "Linux Device Drivers",
     "Digital Electronics",
     "FPGA and VHDL/Verilog",
     "IoT Systems",
     "Real-Time Operating Systems (RTOS)",
     "Low-level systems programming",
-    "Kernel development and debugging",
   ]
 
 technical_background:
