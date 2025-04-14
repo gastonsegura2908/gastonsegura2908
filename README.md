@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/gastonsegura">
     <img height="50" src="https://github.com/user-attachments/assets/7699474f-2050-47b4-aaa2-f1b29962ae78"/>
   </a>
-  <a href="https://www.linkedin.com/in/gastonsegura">
+  <a href="mailto:gastonsegura2908@gmail.com">
     <img height="50" src="https://github.com/user-attachments/assets/74124721-7e21-4d35-b63b-53cbb4108a52"/>
   </a>  
   <a href="https://www.linkedin.com/in/gastonsegura">
