@@ -51,8 +51,8 @@ technical_background:
     "ARM Cortex-M microcontrollers (LPC1769, STM32)",
     "Linux Kernel Module development (Character Device Drivers)",
     "Secure Boot and kernel module signing (X.509, OpenSSL)",
-    "Firmware development using FreeRTOS and bare-metal",
-    "Sensor integration and ADC communication via GPIO/I2C/UART/SPI",
+    "Firmware development using FreeRTOS",
+    "Sensor integration and ADC communication via I2C/UART/SPI",
     "LoRa-based communication protocols",
     "Python for GUI, serial comms and data visualization (matplotlib, ctypes)",
     "Concurrent programming with Java (monitors and synchronization)",
@@ -77,7 +77,7 @@ technical_background:
   ]
 
 
-hobbies: ["Gaming", "Movies", "football", "Comedy"]
+hobbies: ["Gaming", "Movies", "Football", "Comedy"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
