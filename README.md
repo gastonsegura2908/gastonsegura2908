@@ -128,6 +128,10 @@ hobbies: ["Gaming", "Movies", "Football", "Comedy"]
 
 
 <h2> 📊 &nbsp;My Github Stats</h2>
+<p align="center"> <a href="https://github.com/gastonsegura2908"> <img src="https://github-readme-stats.vercel.app/api?username=gastonsegura2908&show_icons=true&theme=radical" alt="Gaston Segura's GitHub stats" height="200"/> </a> <a href="https://github.com/gastonsegura2908"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonsegura2908&layout=compact&theme=radical" alt="Top Languages" height="200"/> </a> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gastonsegura2908&theme=radical" alt="GitHub Streak" height="200"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/gastonsegura2908/gastonsegura2908/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
+
+
+
 ![Snake animation](https://github.com/gastonsegura2908/gastonsegura2908/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
