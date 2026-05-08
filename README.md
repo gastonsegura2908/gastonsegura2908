@@ -5,7 +5,7 @@
 
 <!-- animación typing 👇 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👨‍💻+Embedded+Systems+Engineer;💡+Hardware+and+Firmware+Developer;🔧+Low-Level+Systems+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👨‍💻+Embedded+Systems+Engineer; 👨‍💻+Digital+Verification+Engineer;💡+Hardware+and+Firmware+Developer;🔧+Low-Level+Systems+Specialist" alt="Typing SVG" />
 </p>
 
 <p align="center">
