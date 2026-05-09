@@ -19,7 +19,7 @@
   <a href="mailto:gastonsegura2908@gmail.com">
     <img height="50" src="https://github.com/user-attachments/assets/74124721-7e21-4d35-b63b-53cbb4108a52"/>
   </a>  
-  <a href="https://drive.google.com/file/d/1NibZ6hWfPwfhyfXgUzKRajQy4HQlUcd5/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1k-CM8zBZPrM3BdVjD67pviymUkWc92SP/view?usp=drive_link">
     <img height="50" src="https://github.com/user-attachments/assets/57239535-bda3-4756-a5fa-2b253cfe169b"/>
   </a>    
 </p>
@@ -41,6 +41,8 @@ education:
 fields_of_interests:
   [
     "Embedded Systems",
+    "Digital Design",
+    "Digital Verification",
     "Firmware Development",
     "Hardware Design",
     "Digital Electronics",
@@ -53,6 +55,8 @@ fields_of_interests:
 technical_background:
   [
     "C and C++ for embedded systems",
+    "Universal Verification Methodology",
+    "Verilog and System Verilog for VLSI",
     "Assembly (x86) for low-level performance and debugging",
     "ARM Cortex-M microcontrollers (LPC1769, STM32)",
     "Linux Kernel Module development (Character Device Drivers)",
